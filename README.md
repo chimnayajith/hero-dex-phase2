@@ -31,7 +31,7 @@ Your task is to transform this data into a user-friendly app that even your gran
 
 ## Sample App
 
-
+https://github.com/chimnayajith/hero-dex/assets/72075630/a0833c6a-357f-4aa5-9f84-2e624b328bec
 
 ## Resources
 
